@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 205" width="1100" height="205" role="img" aria-label="REMANON">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101120"/><stop offset="1" stop-color="#221A33"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7CE5D3"/><stop offset="1" stop-color="#D0ACFF"/></linearGradient></defs>
+<rect x="1" y="1" width="1098" height="203" rx="18" fill="url(#bg)" stroke="#38324F" stroke-width="2"/>
+<rect x="0" y="0" width="6" height="205" rx="3" fill="url(#accent)"/>
+<text x="38" y="43" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2.7" fill="#D0ACFF">03  /  INFERENCE INFRASTRUCTURE</text>
+<text x="38" y="103" font-family="DejaVu Sans, Arial, sans-serif" font-size="48" font-weight="800" fill="#F5F2FF">REMANON</text>
+<text x="40" y="147" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#BEB8D3">GPU-resident shared memory for multi-agent AI inference</text>
+<rect x="40" y="164" width="100" height="24" rx="12" fill="#27213D"/><text x="90" y="181" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="13" fill="#D7CBF7">5.8x measured</text>
+<g fill="#181729" stroke="#B99FFF" stroke-width="3"><rect x="795" y="46" width="122" height="35" rx="9"/><rect x="811" y="86" width="122" height="35" rx="9"/><rect x="827" y="126" width="122" height="35" rx="9"/></g><g fill="#7CE5D3"><circle cx="822" cy="64" r="5"/><circle cx="838" cy="104" r="5"/><circle cx="853" cy="145" r="5"/></g><path d="M948 46L980 25M950 161L984 183" stroke="#7CE5D3" stroke-width="3" stroke-opacity=".7"/>
+<path d="M995 70H1064L1047 53M1064 70L1047 87" fill="none" stroke="#D0ACFF" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
